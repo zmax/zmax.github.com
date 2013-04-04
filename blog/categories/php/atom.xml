@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: php, | Starck Lin]]></title>
+  <title><![CDATA[Category: php | Starck Lin]]></title>
   <link href="http://zmax.github.com/blog/categories/php/atom.xml" rel="self"/>
   <link href="http://zmax.github.com/"/>
-  <updated>2013-04-04T17:19:02+08:00</updated>
+  <updated>2013-04-04T17:20:00+08:00</updated>
   <id>http://zmax.github.com/</id>
   <author>
     <name><![CDATA[Starck Lin]]></name>
