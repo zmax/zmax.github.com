@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Starck Lin]]></title>
-  <link href="http://zmax.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: GruntJS | Starck Lin]]></title>
+  <link href="http://zmax.github.com/blog/categories/gruntjs/atom.xml" rel="self"/>
   <link href="http://zmax.github.com/"/>
   <updated>2013-04-05T02:05:53+08:00</updated>
   <id>http://zmax.github.com/</id>
@@ -21,15 +21,6 @@
     <content type="html"><![CDATA[<h1>GruntJS</h1>
 
 <p>GruntJS 是一個讓你用 Javascript 編寫 Build Script 的工具.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://zmax.github.com/blog/2013/04/04/first-post/"/>
-    <updated>2013-04-04T17:08:00+08:00</updated>
-    <id>http://zmax.github.com/blog/2013/04/04/first-post</id>
-    <content type="html"><![CDATA[<p>Hello World!</p>
 ]]></content>
   </entry>
   
