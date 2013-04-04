@@ -4,7 +4,7 @@
   <title><![CDATA[Starck Lin]]></title>
   <link href="http://zmax.github.com/atom.xml" rel="self"/>
   <link href="http://zmax.github.com/"/>
-  <updated>2013-04-04T17:12:12+08:00</updated>
+  <updated>2013-04-04T17:16:41+08:00</updated>
   <id>http://zmax.github.com/</id>
   <author>
     <name><![CDATA[Starck Lin]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zmax.github.com/blog/2013/04/04/first-post/"/>
     <updated>2013-04-04T17:08:00+08:00</updated>
     <id>http://zmax.github.com/blog/2013/04/04/first-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Hello World!</p>
 ]]></content>
   </entry>
   
