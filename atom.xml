@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Starck Lin]]></title>
+  <link href="http://zmax.github.com/atom.xml" rel="self"/>
+  <link href="http://zmax.github.com/"/>
+  <updated>2013-04-04T17:12:12+08:00</updated>
+  <id>http://zmax.github.com/</id>
+  <author>
+    <name><![CDATA[Starck Lin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://zmax.github.com/blog/2013/04/04/first-post/"/>
+    <updated>2013-04-04T17:08:00+08:00</updated>
+    <id>http://zmax.github.com/blog/2013/04/04/first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
