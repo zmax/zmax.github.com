@@ -4,7 +4,7 @@
   <title><![CDATA[Starck Lin]]></title>
   <link href="http://zmax.github.com/atom.xml" rel="self"/>
   <link href="http://zmax.github.com/"/>
-  <updated>2013-04-05T02:06:52+08:00</updated>
+  <updated>2013-04-17T00:13:23+08:00</updated>
   <id>http://zmax.github.com/</id>
   <author>
     <name><![CDATA[Starck Lin]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Modular Scale for Typography]]></title>
+    <link href="http://zmax.github.com/blog/2013/04/09/modular-scale-for-typography/"/>
+    <updated>2013-04-09T14:41:00+08:00</updated>
+    <id>http://zmax.github.com/blog/2013/04/09/modular-scale-for-typography</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://modularscale.com/">Modular Scale</a></li>
+<li><a href="http://branch.com/b/baseline-grid-or-modular-scale-both-neither#highlight-41706-159">Baseline grid or modular scale? Both? Neither?</a></li>
+<li><a href="http://coding.smashingmagazine.com/2012/10/15/css-qa-4/">SVG Fallback, Vertical Rhythm, CSS Project Structure @ smashingmagazine</a></li>
+<li><a href="http://alistapart.com/article/more-meaningful-typography">More Meaningful Typography</a></li>
+<li><a href="http://thesassway.com/projects/modular-scale">The Sass Way</a></li>
+</ul>
+
+
+<p>Grid:
+- <a href="http://susy.oddbird.net/">Susy</a>
+- http://goldengridsystem.com/
+- http://framelessgrid.com/
+- http://lessframework.com/
+- http://www.jonikorpi.com/
+- https://github.com/freshtilledsoil/gridOverlay/blob/gh-pages/javascripts/gridOverlay.js</p>
+
+<p>CSS:
+- http://oocss.org/</p>
+
+<p>Tool:
+- <a href="http://typecast.com/">Typecast</a>
+- <a href="http://www.gridlover.net/">GridOver</a>
+- <a href="http://gridsetapp.com/">Gridset</a></p>
+
+<p>Font online:
+- <a href="http://www.fonts.com/">fonts.com</a>
+- <a href="https://typekit.com/">typekit</a>
+- <a href="http://www.fontspring.com/">FontSpring</a></p>
+
+<p>Font resource:
+- http://webfontspecimen.com/</p>
+
+<h2>- http://letteringjs.com/</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GruntJS]]></title>
